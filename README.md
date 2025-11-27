@@ -15,4 +15,4 @@ I'm Nehimi — a passionate **Full-Stack Web Developer** and **Android Developer
 - **Tools:** Git, GitHub, VS Code  
 
 ### 📫 Connect With Me
-- GitHub: [Nehimi-Gulufa ])
+- GitHub: [Nehimi-Gulufa ](https://github.com/nehimi)
